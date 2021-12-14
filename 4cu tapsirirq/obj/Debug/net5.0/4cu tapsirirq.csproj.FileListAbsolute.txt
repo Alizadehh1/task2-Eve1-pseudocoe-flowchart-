@@ -1,0 +1,16 @@
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\4cu tapsirirq.exe
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\4cu tapsirirq.deps.json
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\4cu tapsirirq.runtimeconfig.json
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\4cu tapsirirq.runtimeconfig.dev.json
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\4cu tapsirirq.dll
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\ref\4cu tapsirirq.dll
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\bin\Debug\net5.0\4cu tapsirirq.pdb
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.csproj.AssemblyReference.cache
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.AssemblyInfoInputs.cache
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.AssemblyInfo.cs
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.csproj.CoreCompileInputs.cache
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.dll
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\ref\4cu tapsirirq.dll
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.pdb
+C:\Users\alide\Desktop\Tasks\Eve1\4cu tapsirirq\obj\Debug\net5.0\4cu tapsirirq.genruntimeconfig.cache

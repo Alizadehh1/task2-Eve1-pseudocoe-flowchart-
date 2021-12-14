@@ -1,0 +1,14 @@
+start program2
+print "3 reqemli eded daxil edin"
+read a
+init b
+
+if a>=100 and a<=999 then
+calculate b=(a*1000)+a
+print b
+
+else
+print "3reqemli deyil"
+end if
+
+end program2

@@ -1,0 +1,17 @@
+start program3
+print "5 reqemli eded daxil et"
+read a
+init b
+init c
+
+if a>=10000 and a<=99999 then
+calculate b=(a*0.18)
+calculate c=(a*0.03)
+print b
+print c
+
+else
+print "duzgun daxil edin"
+end if
+
+end program 3

@@ -1,0 +1,23 @@
+start program4
+print "4 reqemli eded daxil edin"
+read a,b,c,
+init d
+init e
+init f
+init x
+init y
+
+if 1000<=a,b,c,d<=9999 then
+calculate d=(a*0.01
+calculate e=b*0.02
+calculate f=c*0.03
+calculate x=c*0.07
+calculate y=(d-e-f)+x
+Print y
+
+Else
+Print "Duzgun daxil edin!!!"
+Endif
+
+End program4
+

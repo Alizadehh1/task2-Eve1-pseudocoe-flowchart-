@@ -1,0 +1,15 @@
+start program1
+print "3 reqemli eded daxil et"
+Read a
+INIT b
+
+if a>=100 a<=999 then
+
+calculate b=(7000+a)*10+8
+Display b
+
+else
+print "3 reqemli deyil"
+end if
+
+end program1
